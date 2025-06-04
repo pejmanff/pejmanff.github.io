@@ -18,9 +18,10 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+# geopy >= 2.0 requires a user agent when using Nominatim.
+# Without it a `TypeError` will be raised on initialization.
+geocoder = Nominatim(user_agent="talkmap")
 location_dict = {}
-location = ""
 permalink = ""
 title = ""
 
@@ -28,15 +29,19 @@ title = ""
 for file in g:
     with open(file, 'r') as f:
         lines = f.read()
-        if lines.find('location: "') > 1:
-            loc_start = lines.find('location: "') + 11
-            lines_trim = lines[loc_start:]
-            loc_end = lines_trim.find('"')
-            location = lines_trim[:loc_end]
-                            
-           
-        location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
+
+    location = ""
+    if 'location: "' in lines:
+        loc_start = lines.find('location: "') + 11
+        lines_trim = lines[loc_start:]
+        loc_end = lines_trim.find('"')
+        location = lines_trim[:loc_end]
+
+    if location:
+        geocoded = geocoder.geocode(location)
+        if geocoded:
+            location_dict[location] = geocoded
+            print(location, "\n", geocoded)
 
 
 m = getorg.orgmap.create_map_obj()
