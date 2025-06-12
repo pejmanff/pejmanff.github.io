@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Pejman Fatehi"
 title_separator          : "-"
 name                     : &name "Pejman Fatehi"
-description              : &description "personal description"
+description              : &description "PhD student at Colorado State University"
 url                      : https://pejmanff.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pejmanff/pejmanff.github.io"
