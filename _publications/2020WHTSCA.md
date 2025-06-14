@@ -6,8 +6,8 @@ permalink: /publication/2020-WHTSCA
 excerpt: 'A wavelet-Hilbert transform based sparse component analysis (WHT-SCA) method is proposed for real-time system identification and structural control.'
 date: 2020-08-01
 venue: 'Computer‐Aided Civil and Infrastructure Engineering, Vol. 35, No. 8, pp. 870–886'
-slidesurl: ''
-paperurl: ''
+slidesurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12552'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12552'
 citation: 'Karami, K., Fatehi, P., & Yazdani, A. (2020). "On‐line system identification of structures using wavelet‐Hilbert transform and sparse component analysis." <i>Computer‐Aided Civil and Infrastructure Engineering, 35</i>(8), 870–886.'
 ---
 
