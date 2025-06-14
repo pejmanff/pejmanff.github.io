@@ -6,8 +6,8 @@ permalink: /publication/2020-SCAWT
 excerpt: 'A sparse component analysis approach combined with the wavelet transform is utilized for real-time system identification.'
 date: 2020-09-01
 venue: 'Amirkabir Journal of Civil Engineering, Vol. 52, No. 9, pp. 2301-2320'
-slidesurl: ''
-paperurl: ''
+slidesurl: 'https://ceej.aut.ac.ir/article_3521_6c4e96d1dc24a3956a63fa2a77a36280.pdf'
+paperurl: 'https://ceej.aut.ac.ir/article_3521_6c4e96d1dc24a3956a63fa2a77a36280.pdf'
 citation: 'Manie, S., Karami, K., & Fatehi, P. (2020). "Online system identification by sparse component analysis based on wavelet transform." <i>Amirkabir Journal of Civil Engineering, 52</i>(9), 2301-2320.'
 ---
 
