@@ -1,6 +1,6 @@
 ---
 title: "Thornton Tomasetti Foundation Student Innovation Fellowship"
-excerpt: "Received a \$5,000 fellowship to advance machine learning-based optimization of solar trackers. <br/><a href='https://www.engr.colostate.edu/ce/fatehi-wins-5k-thornton-tomasetti-student-innovation-fellowship/'>Read more</a>"
+excerpt: "Received a $5,000 fellowship to advance machine learning-based optimization of solar trackers. <br/><a href='https://www.engr.colostate.edu/ce/fatehi-wins-5k-thornton-tomasetti-student-innovation-fellowship/'>Read more</a>"
 collection: portfolio
 ---
 
