@@ -11,35 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Structural Engineering**, Department of Civil and Environmental Engineering, Colorado State University, Fort Collins, Colorado (2022&ndash;present)
+  * Supervisor: Dr. Yanlin Guo (<yanlin.guo@colostate.edu>)
+  * GPA: 3.852
+* **M.Sc. in Structural Engineering**, Department of Civil Engineering, University of Kurdistan, Sanandaj, Iran (2015&ndash;2018)
+  * Thesis: "Detection of damage based on blind source identification"
+  * Supervisors: Dr. Kaveh Karami (<ka.karami@uok.ac.ir>) and Dr. Azad Yazdani (<a.yazdani@uok.ac.ir>)
+  * Thesis Score: 19.5/20 (4.0/4.0)
+  * Overall Average: 16.61/20 (3.65/4)
+  * Ranked 2nd among Structural Engineering students
+* **B.Sc. in Civil Engineering**, University of Kurdistan, Sanandaj, Iran (2010&ndash;2014)
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Structural health monitoring
+* Structural response mitigation
+* Computational fluid dynamics
+* Vibration based structural damage detection
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching and Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Graduate Research Assistant**, University of Kurdistan (2016&ndash;2021)
+  * Research assistant for three theses:
+    * Determining mid-story isolation parameters in control of structures
+    * Subspace-based structural parameters identification of base isolation level
+    * Developing blind modal identification for non-proportionally damped structures by time-frequency method
+  * Supervisor: Dr. Kaveh Karami (Assistant Professor, University of Kurdistan)
+
+Work Experience
+======
+* Technical Office Expert, Road and Construction Company, SarchnarRah (2015&ndash;2017)
+* Technical Office Expert, Road and Construction Company, Payam Tavan Rah (2019&ndash;2021)
+
+Computer Proficiency
+======
+* Programming Languages: MATLAB, Python, C++
+* Finite Element: OpenSees, ABAQUS
+* Civil Programming: AutoCAD, SAP, ETABS, SAFE, SeismoSignal, Autodesk Revit, Autodesk Robot Structural Analysis
+
+Professional Activities
+======
+* Member of Iran Engineers' Association
+* Member of Kurdistan University Civil Engineering Association (2011&ndash;2014)
+* Secretary of Kurdistan University Numerical Simulation Association (2017&ndash;2018)
+
+Awards & Honors
+======
+* 2010 &ndash; Full Scholarship from Kurdistan University for bachelor's program
+* 2015 &ndash; Full Scholarship from Kurdistan University for graduate program
+* 2023 &ndash; Bob and Joan Meroney Scholarship, Colorado State University
+* 2024 &ndash; Thornton Tomasetti Foundation 9th Annual Student Innovation Fellowship
+* 2024 &ndash; Civil Engineering Alumni Graduate Scholarship
 
 Publications
 ======
@@ -59,6 +81,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
