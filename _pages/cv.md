@@ -63,8 +63,8 @@ Awards & Honors
 * 2024 &ndash; Thornton Tomasetti Foundation 9th Annual Student Innovation Fellowship
 * 2024 &ndash; Civil Engineering Alumni Graduate Scholarship
 * 2025 &ndash; Jack E. Cermak Wind Engineering Graduate Fellowship, Colorado State University
-* 2024 &ndash; Best Paper Award, Engineering Mechanics Institute (EMI) 2025 Conference
-* 
+* 2025 &ndash; Best Paper Award, Engineering Mechanics Institute (EMI) 2025 Conference
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
