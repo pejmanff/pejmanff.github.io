@@ -49,6 +49,7 @@ Work Experience
 Computer Proficiency
 ======
 * Programming Languages: MATLAB, Python, C++
+* Computational Fluid Dynamics (CFD): OpenFOAM, ANSYS Fluent, SimScale, ParaView
 * Finite Element: OpenSees, ABAQUS
 * Civil Programming: AutoCAD, SAP, ETABS, SAFE, SeismoSignal, Autodesk Revit, Autodesk Robot Structural Analysis
 
