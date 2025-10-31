@@ -38,7 +38,7 @@ Teaching and Research Experience
     * Developing blind modal identification for non-proportionally damped structures by time-frequency method
   * Supervisor: Dr. Kaveh Karami (Assistant Professor, University of Kurdistan)
 
-* **CEE Department Summer Teaching Fellow, Colorado State University (2025)
+* **CEE Department Summer Teaching Fellow**, Colorado State University (2025)
   * Taught CIVE 261 – Engineering Mechanics: Dynamics during the 2025 summer session at Colorado State University
     
 Work Experience
