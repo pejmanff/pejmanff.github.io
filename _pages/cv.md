@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Structural Engineering**, Department of Civil and Environmental Engineering, Colorado State University, Fort Collins, Colorado (2022&ndash;present)
+* **Ph.D. in Candidate in Structural Engineering**, Department of Civil and Environmental Engineering, Colorado State University, Fort Collins, Colorado (2022&ndash;present)
   * Supervisor: Dr. Yanlin Guo (<yanlin.guo@colostate.edu>)
   * GPA: 3.852
 * **M.Sc. in Structural Engineering**, Department of Civil Engineering, University of Kurdistan, Sanandaj, Iran (2015&ndash;2018)
@@ -24,10 +24,20 @@ Education
 
 Research Interests
 ======
-* Structural health monitoring
-* Structural response mitigation
-* Computational fluid dynamics
-* Vibration based structural damage detection
+* Wind engineering and structural aerodynamics
+* Aeroelasticity and wind-induced structural instability
+* Single-axis solar tracker aerodynamics and aeroelasticity
+* Computational fluid dynamics and fluid-structure interaction
+* Aerodynamic mitigation and structural response control
+* Physics-guided and multi-fidelity machine learning
+* Reduced-order modeling of nonlinear structural response
+* Structural health monitoring and vibration-based damage detection
+
+Research Mentoring
+======
+* **SURE Research Mentor**, Colorado State University
+  * Mentored undergraduate research related to structural/wind engineering.
+
 
 Teaching and Research Experience
 ======
@@ -38,8 +48,11 @@ Teaching and Research Experience
     * Developing blind modal identification for non-proportionally damped structures by time-frequency method
   * Supervisor: Dr. Kaveh Karami (Assistant Professor, University of Kurdistan)
 
-* **CEE Department Summer Teaching Fellow**, Colorado State University (2025)
-  * Taught CIVE 261 – Engineering Mechanics: Dynamics during the 2025 summer session at Colorado State University
+* **CEE Department Summer Teaching Fellow**, Colorado State University (Summer 2025)
+  * Instructor for CIVE 261 – Engineering Mechanics: Dynamics.
+
+* **Graduate Teaching/Grading Assistant**, Colorado State University (2025–2026)
+  * Grader for undergraduate Civil Engineering courses, including CIVE 303 and CIVE 367.
     
 Work Experience
 ======
@@ -59,6 +72,13 @@ Professional Activities
 * Member of Kurdistan University Civil Engineering Association (2011&ndash;2014)
 * Secretary of Kurdistan University Numerical Simulation Association (2017&ndash;2018)
 
+Academic and University Service
+======
+* Graduate Student Council, Colorado State University (2024–2025)
+* Grant Review Committee, Colorado State University (2024–2025)
+* University Facility Fee Advisory Board (UFFAB), Colorado State University
+* SURE Undergraduate Research Mentor, Colorado State University
+
 Awards & Honors
 ======
 * 2010 &ndash; Full Scholarship from Kurdistan University for bachelor's program
@@ -68,6 +88,11 @@ Awards & Honors
 * 2024 &ndash; Civil Engineering Alumni Graduate Scholarship
 * 2025 &ndash; Jack E. Cermak Wind Engineering Graduate Fellowship, Colorado State University
 * 2025 &ndash; Best Paper Award, Engineering Mechanics Institute (EMI) 2025 Conference
+
+Academic Service
+======
+* Peer reviewer for international academic journals in structural/wind engineering.
+  * Peer Reviewer, Resilient Cities and Structures, 2026
 
 Publications
 ======
