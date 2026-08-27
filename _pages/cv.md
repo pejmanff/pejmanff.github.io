@@ -81,13 +81,13 @@ Academic and University Service
 
 Awards & Honors
 ======
-* 2010 &ndash; Full Scholarship from Kurdistan University for bachelor's program
-* 2015 &ndash; Full Scholarship from Kurdistan University for graduate program
-* 2023 &ndash; Bob and Joan Meroney Scholarship, Colorado State University
-* 2024 &ndash; Thornton Tomasetti Foundation 9th Annual Student Innovation Fellowship
-* 2024 &ndash; Civil Engineering Alumni Graduate Scholarship
-* 2025 &ndash; Jack E. Cermak Wind Engineering Graduate Fellowship, Colorado State University
-* 2025 &ndash; Best Paper Award, Engineering Mechanics Institute (EMI) 2025 Conference
+* 2025 – Best Paper Award, Engineering Mechanics Institute (EMI) 2025 Conference
+* 2025 – Jack E. Cermak Wind Engineering Graduate Fellowship, Colorado State University
+* 2024 – Thornton Tomasetti Foundation 9th Annual Student Innovation Fellowship
+* 2024 – Civil Engineering Alumni Graduate Scholarship, Colorado State University
+* 2023 – Bob and Joan Meroney Scholarship, Colorado State University
+* 2015 – Full Scholarship, University of Kurdistan, M.Sc. Program
+* 2010 – Full Scholarship, University of Kurdistan, B.Sc. Program
 
 Academic Service
 ======
