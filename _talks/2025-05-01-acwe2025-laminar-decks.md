@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-05-01-acwe2025-laminar-decks
 venue: "American Conference on Wind Engineering"
-date: 2025-05-01
+date: 2025-05-21
 location: "St. Louis, Missouri"
 ---
 

@@ -4,7 +4,8 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-06-01-emi2025-solar-trackers
 venue: "Engineering Mechanics Institute Conference"
-date: 2025-06-01
+date: 2025-05-27
+display_date: "May 27–30, 2025"
 location: "Anaheim, California"
 ---
 

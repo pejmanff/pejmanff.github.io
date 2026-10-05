@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop presentation"
 permalink: /talks/2024-05-01-aaw-workshop-laminar-decks
 venue: "7th American Association for Wind Engineering Workshop"
-date: 2024-05-01
+date: 2024-06-10
 location: "Ann Arbor, Michigan"
 ---
 

@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-05-02-acwe2025-solar-tracker
 venue: "American Conference on Wind Engineering"
-date: 2025-05-02
+date: 2025-05-22
 location: "St. Louis, Missouri"
 ---
 
